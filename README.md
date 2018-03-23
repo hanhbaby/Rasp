@@ -1,2 +1,0 @@
-# opp
-Giao tring OPP
